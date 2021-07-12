@@ -167,7 +167,7 @@ uint256 GetOutputsHash(const CTransaction &txTo) {
 
 # Example
 
-To ensure consistency in consensus-critical behaviour, developers should test their implementations against all the tests below. More tests related to this proposal could be found under https://github.com/bitcoin/bitcoin/tree/master/src/test/data .
+To ensure consistency in consensus-critical behaviour, developers should test their implementations against all the tests below.
 
 # Native P2WPKH 
   ````
